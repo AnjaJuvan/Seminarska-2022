@@ -1,0 +1,12 @@
+.monster-products{
+    padding: 0 10vw;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 40px;
+    text-transform: capitalize;
+}
+.monster-products{
+    position: right;
+    overflow: hidden;
+   
+}
